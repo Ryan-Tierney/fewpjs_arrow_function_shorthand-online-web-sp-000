@@ -1,5 +1,6 @@
 let divide = (num1, num2) => {
-  let solution = num1 / num2
-  return solution
+  console.log(`Dividing ${num1}`); 
+  console.log(`dividing ${num2}`); 
+  return num1 / num2; 
 }
   
