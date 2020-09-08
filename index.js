@@ -1,5 +1,5 @@
-let divide = (1000, 200) => {
-  return 1000 / 200; 
+let divide = (num1 = 2000, num2 = 100) => {
+  return num1 / num2; 
 }
   
   
